@@ -11,12 +11,12 @@ https://0x.is-a-femboy.today/ap5g2auj.rar
 ### Features📝
 
 Machine Info💻  
-⋅Username 
-⋅Machine Name 
+⋅Username   
+⋅Machine Name   
 ⋅Active Window  
 ⋅Launch Path  
-⋅OS 
-⋅Screen Metrics 
+⋅OS   
+⋅Screen Metrics   
 ⋅CPU  
 ⋅GPU  
 ⋅RAM  
@@ -25,7 +25,7 @@ Machine Info💻
 ⋅Webcam Picture 
 
 Wifi Info🌐   
-⋅BSSID  
+⋅BSSID    
 ⋅IP   
 ⋅IPv6   
 ⋅Country  
