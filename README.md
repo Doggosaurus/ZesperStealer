@@ -5,9 +5,6 @@ https://kleenscan.com/scan_result/f7d2a192e02e6a8fb5b0221962c3574167bf3e948a9bd1
 
 ## Main
 
-### Download (its too big for Github)  
-https://0x.is-a-femboy.today/ap5g2auj.rar
-
 ### Features📝
 
 Machine Info💻  
